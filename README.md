@@ -28,9 +28,13 @@
 
 ## 사용자 가이드
 ### NAVERCLOUD PLATFORM Video Player Enhancement
-
 https://guide.ncloud-docs.com/docs/ko/vpe-overview
 
+### VPE 재생소스 설정 가이드
+https://guide.ncloud-docs.com/docs/vpe-example-source
+
+### VPE Web 설정 가이드
+https://guide.ncloud-docs.com/docs/vpe-web
 
 ***
 
