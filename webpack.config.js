@@ -6,7 +6,7 @@ module.exports = merge({
 	mode:'production',
 	entry: {
 		index:{
-			import:'./src/index.js',
+			import:'./src/demo.js',
 		},
 	},
 	output: {
