@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             subtitle:false,
         },
         progressBarColor:"#ff0000",
-        controlActiveTime:39000,
+        controlActiveTime:3000,
         startMutedInfoNotVisible:false,
         aspectRatio:"16/9",
         objectFit:"contain",
