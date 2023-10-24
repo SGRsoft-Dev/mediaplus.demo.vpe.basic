@@ -7,7 +7,7 @@ VIDEO24에서 제공하는 NAVERCLOUD VPE Player의 기본 코드
 
 
 ## 소스코드
-[https://github.com/SGRsoft-Dev/mediaplus.demo.vpe.basic](https://github.com/SGRsoft-Dev/mediaplus.demo.vpe.basic)
+[https://github.com/SGRsoft-Dev/vpe.demo.basic](https://github.com/SGRsoft-Dev/vpe.demo.basic)
 
 
 *** 
